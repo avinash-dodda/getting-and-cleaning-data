@@ -11,7 +11,9 @@ Here are the data for the project:
 
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )
 
-The R script called run_analysis.R does the following. 
+**Codebook.md** file describes the variables contained in the data.
+
+The R script called **run_analysis.R** does the following. 
 <ul>
 <li>Downloads the data from above links to current working directory and unzips (if data is not already present in the working directory) </li> 
 <li>Merges the training and the test sets to create one data set. </li>
