@@ -13,6 +13,7 @@ Here are the data for the project:
 
 The R script called run_analysis.R does the following. 
 <ul>
+<li>Downloads the data from above links to current working directory and unzips (if data is not already present in the working directory) </li> 
 <li>Merges the training and the test sets to create one data set. </li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement. </li>
 <li>Uses descriptive activity names to name the activities in the data set. </li>
